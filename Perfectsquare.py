@@ -1,0 +1,6 @@
+import math
+
+Input = input()
+
+
+
